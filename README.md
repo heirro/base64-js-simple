@@ -18,6 +18,13 @@ For use Cross Browser (CDN):
 
 - `Base64.encode(string)` - Converting string text and return base64 string
 - `Base64.decode(string)` - Converting base64 string to string plain text.
+
+## To Do
+
+- [x] Cross browser support
+- [ ] Module `import` support
+- [ ] Hotfix performance
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
