@@ -1,0 +1,19 @@
+{
+  "name": "base64-js-simple",
+  "version": "1.0.0",
+  "description": "Base64 Encode/Decode simple easy to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heirro/base64-js-simple.git"
+  },
+  "author": "Vava Heirro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heirro/base64-js-simple/issues"
+  },
+  "homepage": "https://github.com/heirro/base64-js-simple#readme"
+}
